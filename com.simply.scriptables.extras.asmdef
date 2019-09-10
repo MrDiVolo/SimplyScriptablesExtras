@@ -1,0 +1,15 @@
+{
+    "name": "com.simply.scriptables.extras",
+    "references": [
+        "GUID:93c75ef187efd584b970713b132856af"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
