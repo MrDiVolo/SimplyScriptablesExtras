@@ -2,14 +2,14 @@
   "name": "com.simply.scriptables.extras",
   "displayName": "Simply Scriptables Extras",
   "description": "Extra assets for the Simply Scriptables package",
-  "version": "1.0.0",
+  "version": "1.0.1-preview",
   "type": "module",
   "author": {
     "name": "Mr Tim",
     "url": "https://www.timvolossevich.wordpress.com"
   },
   "dependencies": {
-    "com.simply.scriptables": "https://github.com/MrDiVolo/SimplyScriptables.git"
+    "com.simply.scriptables": "https://github.com/MrDiVolo/com.simply.scriptables.git"
   },
   "hideInEditor": false
 }
