@@ -9,7 +9,7 @@
     "url": "https://www.timvolossevich.wordpress.com"
   },
   "dependencies": {
-    "https://github.com/MrDiVolo/SimplyScriptables.git": "1.0.0"
+    "com.simply.scriptables": "https://github.com/MrDiVolo/SimplyScriptables.git"
   },
   "hideInEditor": false
 }
