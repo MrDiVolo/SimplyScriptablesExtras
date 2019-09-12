@@ -1,8 +1,8 @@
 {
   "name": "com.simply.scriptables.extras",
-  "displayName": "Simply Scriptables Extras",
+  "displayName": "Simply:Scriptables (Extras)",
   "description": "Extra assets for the Simply Scriptables package (this package REQUIRES com.simply.scriptables - available from https://github.com/MrDiVolo/com.simply.scriptables.git)",
-  "version": "1.0.1-preview",
+  "version": "1.0.2-preview",
   "type": "module",
   "author": {
     "name": "Mr Tim",

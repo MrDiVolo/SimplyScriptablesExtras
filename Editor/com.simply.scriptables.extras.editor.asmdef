@@ -1,0 +1,19 @@
+{
+    "name": "com.simply.scriptables.extras.editor",
+    "references": [
+        "GUID:93c75ef187efd584b970713b132856af",
+        "GUID:2f99937bc003b4941b9a98fdc6d52b4f",
+        "GUID:d9190d00fc00d6c4da3b727f634aea8a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
